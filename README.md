@@ -2,6 +2,9 @@
 
 This is a simple portfolio website project built using HTML, CSS, and JavaScript. The purpose of this project is to showcase my skills, projects, and achievements in a visually appealing and interactive manner.
 
+![Capture d’écran (135)](https://github.com/lahssiki/portfolio_WebSite.github.io/assets/81477694/ef868d2a-7427-48a4-ad5a-24f027939546)
+
+
 ## Features
 
 - **Home Page:** A brief introduction about myself along with links to different sections of the website.
